@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/josepandreu45/202204-W2EXGoT-josep-andreu/issues"
   },
-  "homepage": "https://github.com/josepandreu45/202204-W2EXGoT-josep-andreu#readme"
+  "homepage": "https://github.com/josepandreu45/202204-W2EXGoT-josep-andreu#readme",
+  "devDependencies": {
+    "eslint": "^8.13.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
 }
